@@ -1,5 +1,6 @@
 function [M] = smooth(M2, m, n)
 
+
 M3 = zeros(m,n);
 
 for p = 1:m
